@@ -14,13 +14,13 @@ p,h1,h2,h3,h4,h5,h6,ul {
 
 body{
   font-family: Inter-font;
-  padding: 0.5rem 0.5rem;
+  padding: 0.2rem 0.2rem;
 }
 
 
 .top-nav {
     display: flex;
-    padding: 1rem;
+    padding: 1rem 0.5rem 1rem 0.5rem;
     flex-direction: column;
    
 }
@@ -30,9 +30,11 @@ body{
 }
 .menu-icon {
     width:2.5em;
+    height: 1.3rem;
 }
 .menu-active-icon {
     width:1.5em;
+    height: 1rem;
 }
 
 .nav-items {
@@ -412,6 +414,14 @@ body{
         width: 100%;
       }
 
+
+      
+      
+   
+      
+    
+    
+}
 
       
       
