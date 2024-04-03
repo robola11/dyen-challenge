@@ -19,6 +19,7 @@ menuIcon.addEventListener('click', (e)=>{
     navItems.style.fontWeight= 'bold';
     navItems.style.zIndex= '99';
     overlay.style.display="block";
+    navItems.style.right="0";
 
 
 });
